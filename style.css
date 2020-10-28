@@ -2,6 +2,10 @@ body {
     background-color: teal;
 }
 
+main {
+    margin-top: 25rem;
+}
+
 h1 {
     display: flex;
     justify-content: center;
